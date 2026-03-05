@@ -17,7 +17,7 @@ No portfólio você encontrará:
 
 Você pode acessar o site online através do GitHub Pages:
 
-🔗 https://hudsonsantos0103.github.io/Portfolio-Hudson/
+🔗 https://portfolio-hudson-tau.vercel.app/
 
 ## 🛠️ Tecnologias utilizadas
 
