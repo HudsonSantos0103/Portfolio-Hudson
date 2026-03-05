@@ -51,8 +51,7 @@ Este projeto faz parte da minha jornada de aprendizado em **desenvolvimento web*
 Caso queira entrar em contato comigo:
 
 - GitHub: https://github.com/HudsonSantos0103
-- Email: (adicione seu email aqui)
-
+- Email: hudsonjudo43@gmail.com
 ---
 
 ⭐ Se você gostou do projeto, considere deixar uma estrela no repositório!
